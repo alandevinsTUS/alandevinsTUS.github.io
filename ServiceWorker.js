@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-Trocaire-1.0";
 const contentToCache = [
-    "Build/alandevinsTUS.github.io.loader.js",
-    "Build/alandevinsTUS.github.io.framework.js",
-    "Build/alandevinsTUS.github.io.data",
-    "Build/alandevinsTUS.github.io.wasm",
+    "Build/PlayTestBuild.loader.js",
+    "Build/PlayTestBuild.framework.js",
+    "Build/PlayTestBuild.data",
+    "Build/PlayTestBuild.wasm",
     "TemplateData/style.css"
 
 ];
