@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-Trocaire-1.0";
 const contentToCache = [
-    "Build/PlayTestBuild.loader.js",
-    "Build/PlayTestBuild.framework.js",
-    "Build/PlayTestBuild.data",
-    "Build/PlayTestBuild.wasm",
+    "Build/Temp Build.loader.js",
+    "Build/Temp Build.framework.js",
+    "Build/Temp Build.data",
+    "Build/Temp Build.wasm",
     "TemplateData/style.css"
 
 ];
