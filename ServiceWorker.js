@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-Trocaire-1.0";
 const contentToCache = [
-    "Build/Trocaire_WebGL.loader.js",
-    "Build/Trocaire_WebGL.framework.js",
-    "Build/Trocaire_WebGL.data",
-    "Build/Trocaire_WebGL.wasm",
+    "Build/TrocaireWebGL.loader.js",
+    "Build/TrocaireWebGL.framework.js",
+    "Build/TrocaireWebGL.data",
+    "Build/TrocaireWebGL.wasm",
     "TemplateData/style.css"
 
 ];
